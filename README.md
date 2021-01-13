@@ -2,6 +2,10 @@
 
 A Light como você nunca viu antes!
 
+## Equipe
+
+Caio de Próspero Iglesias, Marcel Makoto Kondo, Felipe Freire Pinto, Bruno M. Holanda
+
 ## Plataforma de desenvolvimento do app
 
 O app foi desenvolvido utilizando a plataforma Flutter da Google, cujas instruções de instalação podem ser encontradas no link a seguir: https://flutter.dev/docs/get-started/install, e as simulações feitas em celulares Android dos integrantes. Embora não testado, o código é igualmente compilável para ambientes iOS.
