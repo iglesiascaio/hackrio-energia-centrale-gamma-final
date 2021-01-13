@@ -2,6 +2,8 @@
 
 A Light como você nunca viu antes!
 
+Projeto vencedor do cluster Energia do Hacking.Rio 2020!!!
+
 ## Equipe
 
 Caio de Próspero Iglesias, Marcel Makoto Kondo, Felipe Freire Pinto, Bruno M. Holanda
