@@ -2,7 +2,9 @@
 
 A Light como você nunca viu antes!
 
-Projeto vencedor do cluster Energia do Hacking.Rio 2020!!!
+Projeto vencedor do cluster Energia do Hacking.Rio 2020!! 
+
+O Hacking.Rio é o maior Hackathons da América Latina e dura apenas um final de semana!
 
 ## Equipe
 
